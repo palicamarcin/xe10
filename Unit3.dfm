@@ -13,4 +13,13 @@ object Form3: TForm3
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Memo1: TMemo
+    Left = 112
+    Top = 64
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'Jakie'#347' prace na formie nr 3')
+    TabOrder = 0
+  end
 end
