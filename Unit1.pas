@@ -12,6 +12,7 @@ type
     Edit1: TEdit;
     Memo1: TMemo;
     Button2: TButton;
+    Button3: TButton;
     procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
