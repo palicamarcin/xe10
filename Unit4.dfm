@@ -13,4 +13,12 @@ object Form4: TForm4
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Edit1: TEdit
+    Left = 64
+    Top = 120
+    Width = 377
+    Height = 21
+    TabOrder = 0
+    Text = 'Jakie'#347' prace na formie numer 4.'
+  end
 end
