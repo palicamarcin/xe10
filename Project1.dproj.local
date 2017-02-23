@@ -2,11 +2,12 @@
 <BorlandProject>
   <Transactions>
     <Transaction>2017-02-23 11:03:38.960,=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2017-02-23 11:03:52.427,C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit1.pas=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017-02-23 11:03:52.427,C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit1.dfm=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017-02-23 11:03:52.427,C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit1.pas=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017-02-23 11:03:53.171,C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Project1.dproj=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2017-02-23 12:02:40.676,=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit2.pas</Transaction>
     <Transaction>2017-02-23 12:02:52.224,=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit2.pas</Transaction>
     <Transaction>2017-02-23 12:13:54.677,=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit3.pas</Transaction>
+    <Transaction>2017-02-23 12:18:03.640,=C:\Users\przonca\Documents\Embarcadero\Studio\Projects\git-testy6\Unit4.pas</Transaction>
   </Transactions>
 </BorlandProject>
