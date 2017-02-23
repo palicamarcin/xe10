@@ -13,7 +13,9 @@ type
     Memo1: TMemo;
     Button2: TButton;
     Button3: TButton;
+    Button4: TButton;
     procedure Button2Click(Sender: TObject);
+    procedure Button4Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -30,6 +32,11 @@ implementation
 procedure TForm1.Button2Click(Sender: TObject);
 begin
  Caption:='testy';
+end;
+
+procedure TForm1.Button4Click(Sender: TObject);
+begin
+ caption:='guzik 4';
 end;
 
 end.

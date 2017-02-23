@@ -55,4 +55,13 @@ object Form1: TForm1
     Caption = 'Trzeci button'
     TabOrder = 4
   end
+  object Button4: TButton
+    Left = 320
+    Top = 248
+    Width = 75
+    Height = 25
+    Caption = 'Button4'
+    TabOrder = 5
+    OnClick = Button4Click
+  end
 end
