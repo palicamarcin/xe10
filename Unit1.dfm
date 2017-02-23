@@ -38,4 +38,13 @@ object Form1: TForm1
       'Memo1')
     TabOrder = 2
   end
+  object Button2: TButton
+    Left = 176
+    Top = 256
+    Width = 75
+    Height = 25
+    Caption = 'Drugi button'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
 end

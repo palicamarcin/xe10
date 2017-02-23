@@ -11,6 +11,8 @@ type
     Button1: TButton;
     Edit1: TEdit;
     Memo1: TMemo;
+    Button2: TButton;
+    procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -23,5 +25,10 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+ Caption:='testy';
+end;
 
 end.
