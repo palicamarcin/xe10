@@ -36,7 +36,7 @@ end;
 
 procedure TForm1.Button4Click(Sender: TObject);
 begin
- caption:='guzik 4';
+ caption:='guzik 4 i 5';
 end;
 
 end.
