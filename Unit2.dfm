@@ -37,7 +37,7 @@ object Form2: TForm2
     Text = 'Edit1'
   end
   object ComboBox1: TComboBox
-    Left = 384
+    Left = 320
     Top = 144
     Width = 145
     Height = 21
