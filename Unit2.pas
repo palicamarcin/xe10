@@ -11,6 +11,7 @@ type
     Button1: TButton;
     Memo1: TMemo;
     Edit1: TEdit;
+    ComboBox1: TComboBox;
   private
     { Private declarations }
   public

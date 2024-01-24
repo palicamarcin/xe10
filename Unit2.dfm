@@ -10,8 +10,6 @@ object Form2: TForm2
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
-  OldCreateOrder = False
-  PixelsPerInch = 96
   TextHeight = 13
   object Button1: TButton
     Left = 40
@@ -37,5 +35,13 @@ object Form2: TForm2
     Height = 21
     TabOrder = 2
     Text = 'Edit1'
+  end
+  object ComboBox1: TComboBox
+    Left = 384
+    Top = 144
+    Width = 145
+    Height = 21
+    TabOrder = 3
+    Text = 'as'
   end
 end
