@@ -14,8 +14,10 @@ type
     Button2: TButton;
     Button3: TButton;
     Button4: TButton;
+    Button5: TButton;
     procedure Button2Click(Sender: TObject);
     procedure Button4Click(Sender: TObject);
+    procedure Button5Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -37,6 +39,11 @@ end;
 procedure TForm1.Button4Click(Sender: TObject);
 begin
  caption:='guzik 4 i 5 i 6';
+end;
+
+procedure TForm1.Button5Click(Sender: TObject);
+begin
+//sssdddfffgggg
 end;
 
 end.
