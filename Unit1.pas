@@ -43,7 +43,7 @@ end;
 
 procedure TForm1.Button5Click(Sender: TObject);
 begin
-//sssdddfffgggg
+caption:='ala ma kota';
 end;
 
 end.
